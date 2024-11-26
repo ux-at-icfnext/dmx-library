@@ -23,7 +23,8 @@ Body text - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius
 - with examples
 - of some bullets
 - as well as
-- what a [link](/) would look like
+- what a [link](/) would look like (use relative links)
+- what an external [link](https://somesite.com) would look like (use http or https)
 
 ---
 
